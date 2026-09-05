@@ -1,0 +1,215 @@
+/*
+ * Print styles for LOADER_GUIDE.pdf.
+ * Used by s3_make_pdf.py through WeasyPrint.
+ * Created: 2026-09-04. Last updated: 2026-09-04.
+ */
+
+@page {
+    size: Letter;
+    margin: 0.8in 0.7in 0.9in 0.7in;
+
+    @bottom-center {
+        content: counter(page) " of " counter(pages);
+        font-family: "Helvetica Neue", Arial, sans-serif;
+        font-size: 8.5pt;
+        color: #8a8a8a;
+    }
+
+    @bottom-right {
+        content: "Little Buck / Little Bull Loaders";
+        font-family: "Helvetica Neue", Arial, sans-serif;
+        font-size: 8pt;
+        color: #b0b0b0;
+    }
+}
+
+/* ---------------------------------------------- body */
+
+body {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 10.5pt;
+    line-height: 1.5;
+    color: #1c1c1c;
+    hyphens: none;
+}
+
+p {
+    margin: 0 0 0.65em 0;
+    orphans: 2;
+    widows: 2;
+}
+
+/* ------------------------------------------ headings */
+
+h1, h2, h3, h4 {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    color: #14401f;
+    break-after: avoid;
+    page-break-after: avoid;
+}
+
+h1 {
+    font-size: 22pt;
+    line-height: 1.2;
+    margin: 0 0 0.2em 0;
+    padding-bottom: 0.25em;
+    border-bottom: 3px solid #367c2b;
+}
+
+h2 {
+    font-size: 15pt;
+    margin: 1.4em 0 0.5em 0;
+    padding-bottom: 0.15em;
+    border-bottom: 1px solid #cfd9cf;
+}
+
+h3 {
+    font-size: 12pt;
+    margin: 1.1em 0 0.4em 0;
+}
+
+h4 {
+    font-size: 10.5pt;
+    margin: 1em 0 0.3em 0;
+}
+
+/* --------------------------------------------- lists */
+
+ul, ol {
+    margin: 0 0 0.7em 0;
+    padding-left: 1.4em;
+}
+
+li {
+    margin-bottom: 0.25em;
+}
+
+/* ---------------------------------- contents section */
+
+h2#contents + ul {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 9.5pt;
+    line-height: 1.45;
+    list-style: none;
+    padding-left: 0.2em;
+}
+
+h2#contents + ul ul {
+    padding-left: 1.2em;
+    font-size: 9pt;
+    color: #555;
+}
+
+/* -------------------------------------------- tables */
+
+table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    margin: 0.6em 0 1em 0;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 9pt;
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+th, td {
+    border: 1px solid #ccd4cc;
+    padding: 5px 7px;
+    text-align: left;
+    vertical-align: top;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+th {
+    background: #eef3ee;
+    color: #14401f;
+    font-weight: 600;
+}
+
+tr:nth-child(even) td {
+    background: #fafbfa;
+}
+
+/* -------------------------------------------- images */
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0.4em auto;
+    border: 1px solid #e0e0e0;
+}
+
+td img {
+    margin: 0 auto;
+}
+
+/* ---------------------------------------- callout box */
+
+blockquote {
+    margin: 0.8em 0;
+    padding: 0.6em 0.9em;
+    background: #fdf8e8;
+    border-left: 4px solid #d8b12a;
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+blockquote p:last-child {
+    margin-bottom: 0;
+}
+
+/* ----------------------------------------------- code */
+
+code {
+    font-family: Menlo, Consolas, monospace;
+    font-size: 9pt;
+    background: #f2f4f2;
+    padding: 1px 4px;
+    border-radius: 3px;
+}
+
+pre {
+    background: #f2f4f2;
+    border: 1px solid #dde3dd;
+    border-radius: 4px;
+    padding: 0.6em 0.8em;
+    font-size: 9pt;
+    line-height: 1.4;
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+pre code {
+    background: none;
+    padding: 0;
+}
+
+/* ---------------------------------------------- links */
+
+a {
+    color: #1a5490;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* ------------------------------------------ rules, hr */
+
+hr {
+    border: none;
+    border-top: 1px solid #e2e6e2;
+    margin: 1.3em 0;
+}
+
+strong {
+    color: #111;
+}
+
+em {
+    color: #444;
+}
