@@ -81,3 +81,28 @@ It has its own caster.
 Please provide instructions how to attach and detach it and how to use it to move the loader around the garage. Provide image(s) and video
 
 --------------------------------------------
+
+In this folder we have created a LOADER_GUIDE file in md and pdf format. It covers two products - 
+ - Little Bull Loader
+ - Little Buck Loader
+
+https://www.youtube.com/@LittleBuckLoader
+https://www.littlebuckloader.com
+
+What other products does this vendor provide?
+Please create a file LITTLE_BUCK_PRODUCTS.md and pdf
+with all products they provide (not only front-loaders).
+
+--------------------------------------------
+
+I spoke with the owners of Little Buck company.
+Offered the PDFs to them to put on their website.
+
+Can you please rewrite both guides to be from the first face.
+This means, change "they are" to "we are", etc
+everywehre throught both guides.
+
+--------------------------------------------
+
+
+--------------------------------------------

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Download the images used by LOADER_GUIDE.md.
+Download the images used by LOADER_GUIDE.md and by
+LITTLE_BUCK_PRODUCTS.md.
 
 Fetches product photos from littlebuckloader.com and video
 thumbnails from the Little Buck Loader YouTube channel, and
@@ -17,7 +18,7 @@ Usage:
     python3 s1_download_images.py --force
 
 Created: 2026-09-04
-Last updated: 2026-09-04
+Last updated: 2026-09-08
 """
 
 import glob
@@ -78,6 +79,43 @@ PHOTOS = [
     ("valve-pressure-relief",
      "https://www.greenpartstore.com/assets/images/"
      "jdturfparts/2018/am121248.jpg"),
+    # Catalog photos for LITTLE_BUCK_PRODUCTS.md
+    ("antler-grappler",
+     f"{CDN}/134e9403-f88c-480c-ae37-d54a9c2ad8de/"
+     "grapple-logs-2-664532.jpg"),
+    ("jd-talon",
+     f"{CDN}/d7cefa44-ff48-43a7-ba60-2e2ff2c3ae54/"
+     "jd-talon-2.png"),
+    ("kbx-talon",
+     f"{CDN}/0e6c8311-ab06-4eb6-bb27-db0fc2432cd3/"
+     "2.jpg"),
+    ("pallet-fork-kit",
+     f"{CDN}/689cb193-c57a-4e38-b11f-8db0ec2f98fb/"
+     "IMG_1356-945212.jpg"),
+    ("boom-pole",
+     f"{CDN}/6c7b4be4-a80a-4d46-a4e9-6dddfed784a9/"
+     "boom-pole-3.jpg"),
+    ("weight-bar",
+     f"{CDN}/8c2aae25-32ba-460e-b48c-0674081fa69f/"
+     "hpp_-29-b7a813d2c29ce49b0fdfa5d2ee2824e5.jpg"),
+    ("weight-basket",
+     f"{CDN}/af7850d7-8aa9-4cf8-b823-c1ba19d465d3/"
+     "basket-web-162727.jpg"),
+    ("bucket-extender",
+     f"{CDN}/0eff0e1c-da73-444d-86a7-f298e2c673b6/"
+     "extender-front.png"),
+    ("top-plate",
+     f"{CDN}/4c2e09aa-775f-4999-96b8-b0f1ff745daf/"
+     "top-plate-2-972669.jpg"),
+    ("build-kit",
+     f"{CDN}/e559ea57-4715-4d51-919e-9773c611b601/"
+     "IMG-3121-454368.jpg"),
+    ("replacement-bucket",
+     f"{CDN}/c06a7b45-dd64-4e13-b36d-af8359770f4a/"
+     "replacement-bucket.jpg"),
+    ("loader-conversion-kit",
+     f"{CDN}/357c4389-db4f-48fd-8706-ae748bd02877/"
+     "buck-conversion.png"),
 ]
 
 # Video thumbnails: (local name, YouTube video id)

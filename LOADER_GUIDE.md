@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [First thing to clear up: they are the same company](#first-thing-to-clear-up-they-are-the-same-company)
+- [First thing to clear up: we build both](#first-thing-to-clear-up-we-build-both)
 - [Which one do you have?](#which-one-do-you-have)
 - [Before the first attach](#before-the-first-attach)
 - [The three valves, and the one upgrade worth doing](#the-three-valves-and-the-one-upgrade-worth-doing)
@@ -31,17 +31,17 @@
 
 ---
 
-## First thing to clear up: they are the same company
+## First thing to clear up: we build both
 
-Little Bull is not a competitor of Little Buck. Both are built by
-**Little Buck Loader, LLC** of Sycamore, Illinois, a family-owned shop
-that has been making aftermarket front-end loaders for John Deere and
+Little Bull is not a competitor of Little Buck. We build both. We are
+**Little Buck Loader, LLC** of Sycamore, Illinois, a family shop that
+has been making aftermarket front-end loaders for John Deere and
 Kubota garden tractors since 2015.
 
-The Little Buck is the entry model. The Little Bull is the heavy-lift
-model. So if you bought a Little Bull, everything on
-littlebuckloader.com and on the Little Buck Loader YouTube channel is
-your documentation too. You are just looking at the bigger brother.
+The Little Buck is our entry model. The Little Bull is our heavy-lift
+model. So if you bought a Little Bull, everything on our website and
+our YouTube channel is your documentation too. You are just looking at
+the bigger brother.
 
 - Website: <https://www.littlebuckloader.com>
 - YouTube: <https://www.youtube.com/@LittleBuckLoader>
@@ -50,9 +50,9 @@ your documentation too. You are just looking at the bigger brother.
 - Factory / pickup: 358 North California Street, Sycamore, IL 60178
 
 > The operator's manual that shipped with your machine is the
-> authority. This file collects the public instructions in one place
-> so you do not have to go hunting. Where the manual and this file
-> disagree, believe the manual.
+> authority. This guide gathers what we cover across our videos, FAQ
+> and blog into one place, so you do not have to go hunting. If the
+> manual and this guide disagree, follow the manual.
 
 ---
 
@@ -78,10 +78,10 @@ onto the tractor.
 |---|---|
 | ![Little Buck Loader](images/little-buck-loader.jpg) | ![Little Bull Loader](images/little-bull-loader.jpg) |
 
-There is also a **Little Bull QuikMount / QuikSystem**, which is the
+We also build the **Little Bull QuikMount / QuikSystem**, which is the
 Little Bull with a tool-free quick-attach plate on the end of the arms
 so you can swap bucket, forks, grapple and snow pusher without pulling
-the whole loader off. And a **Z Buck** for zero-turn mowers and UTVs.
+the whole loader off. And the **Z Buck** for zero-turn mowers and UTVs.
 
 | The Z Buck | Demo video (click) |
 |---|---|
@@ -98,16 +98,15 @@ Do these once, when the loader comes off the pallet. Skipping them is
 how people end up with a squeaky, sloppy loader and a tipped tractor.
 
 **1. Grease it. It ships dry on purpose.**
-The factory does not pre-grease, because grease traps cardboard dust
-in shipping. Give every zerk **two pumps** before the first use. The
-company uses and recommends Valvoline Multi-Purpose Grease (VV614).
-After that, re-grease every **10 to 15 hours** of work. Takes under
-two minutes.
+We do not pre-grease, because grease traps cardboard dust in shipping.
+Give every zerk **two pumps** before the first use. We use and
+recommend Valvoline Multi-Purpose Grease (VV614). After that,
+re-grease every **10 to 15 hours** of work. Takes under two minutes.
 
 **2. Hang ballast on the back.**
 This is the single most important safety item. A loaded bucket pushes
 weight forward, the rear tires go light, and you lose both traction
-and steering. Two factory options:
+and steering. We sell two options:
 
 - **DIY weight basket**: fill with pavers, concrete blocks or a bucket
   of anything heavy. Cheap and adjustable.
@@ -122,7 +121,7 @@ Run roughly **10 PSI above** the sidewall recommendation while the
 loader is on.
 
 **4. Check the hydraulic fluid.**
-Loaders ship wet with Blaine's Farm & Fleet Tractor Trans-Hydraulic
+We ship loaders wet with Blaine's Farm & Fleet Tractor Trans-Hydraulic
 Fluid, which meets John Deere JDM J20C. Mixing it with Type F ATF is
 fine. If you want to run Type F only, you will need about 1.5 extra
 quarts in the system.
@@ -169,15 +168,14 @@ which does have internal free-wheeling valves from the factory. The
 specific hydrostatic **pressure relief** valve for loader use is
 usually an upgrade, not standard equipment.
 
-Little Buck and Little Bull are direct about this: the existing
-forward free-wheeling valve must be replaced by a transaxle
-hydrostatic pressure relief valve to protect the transmission when
-running a loader or driving hard.
+We are direct about this: the existing forward free-wheeling valve
+must be replaced by a transaxle hydrostatic pressure relief valve to
+protect the transmission when running a loader or driving hard.
 
 For the **cutoff valve**, the tractor has factory hydraulic valves for
-implements, including a kind of cutoff function in the circuit. Little
-Bull notes that some owners replace the factory one for better loader
-performance. Optional, not required.
+implements, including a kind of cutoff function in the circuit. Some
+owners replace the factory one for better loader performance.
+Optional, not required.
 
 For **flow control**, some X700s come with an implement lift flow
 control valve and some do not. If yours does not, either buy the Deere
@@ -188,7 +186,7 @@ loader, which achieves much the same thing for free.
 
 ### What to buy
 
-The three parts, at the prices quoted for an X758:
+The three parts, at dealer prices quoted for an X758 in 2026:
 
 | Part | Number | Price | Verdict |
 |---|---|---|---|
@@ -215,15 +213,15 @@ you have hit a stump. Pressure builds in the hydrostatic system with
 nowhere to go. The relief valve opens at a safe pressure and dumps the
 excess, so an expensive transaxle does not get hammered.
 
-Little Bull's own rule: if you push the tractor hard, replace it. If
-you are gentle and avoid dead stalls, it is optional. Running a front
-loader counts as pushing it hard.
+Our rule: if you push the tractor hard, replace it. If you are gentle
+and avoid dead stalls, it is optional. Running a front loader counts
+as pushing it hard.
 
 **MIA885144 is the current Deere number.** It supersedes AM122228, and
 it is the one to order today. Deere lists it as fitting X728, X729,
 X738, X748, X749, X758 and X948, which is the 4WD and all-wheel-steer
-side of the range. Older references, including Little Buck's install
-guide, still use the previous numbers:
+side of the range. Older references, including our own install guide,
+still use the previous numbers:
 
 | Drivetrain | Older number | Stamped | Current Deere part |
 |---|---|---|---|
@@ -241,14 +239,14 @@ you will drop dirt straight into the hydraulic system.
 
 **2. Neutral control rod, M146148. Buy it with the valve.**
 
-This is the free-wheeling valve control lever, and it is the reason
-Little Buck's install guide is titled for the lever as well as the
-valve. The new relief valve is physically bigger than the free-wheeling
-valve it replaces, so the standard lever no longer clears it. The
-M146148 rod is bent to fit around the larger valve. Order it at the
-same time or the install stops halfway.
+This is the free-wheeling valve control lever, and it is why our
+install guide is titled for the lever as well as the valve. The new
+relief valve is physically bigger than the free-wheeling valve it
+replaces, so the standard lever no longer clears it. The M146148 rod
+is bent to fit around the larger valve. Order it at the same time or
+the install stops halfway.
 
-- [Little Buck Loader install guide](https://www.littlebuckloader.com/blog/2021/6/29/install-free-wheeling-control-lever-and-transaxle-hydrostatic-pressure-relief-valve)
+- [Our install guide](https://www.littlebuckloader.com/blog/2021/6/29/install-free-wheeling-control-lever-and-transaxle-hydrostatic-pressure-relief-valve)
 - Video walkthrough, all X700 models with K9X axles:
 
 [![John Deere X700 Series Transaxle Hydraulic Pressure Relief Valve Install](images/video-relief-valve-install.jpg)](https://www.youtube.com/watch?v=5ubyJVu5mPw)
@@ -268,26 +266,25 @@ Open it and the deck and 3-point work normally again.
 > **Check this one on your own machine before you rely on it.** Deere's
 > description is that closing the valve disables the deck hydraulics
 > and speeds up the loader, which means **closed for loader work, open
-> for mowing**. The note on your parts sheet says the opposite. It is
-> also a diverter rather than a hard stop: owners report that with a
-> deck or a rear implement mounted, things still creep up and down
-> slowly, and that around 5 or a quarter turn past 5 on the dial is
-> where the deck stops drifting. Turn the knob and watch what actually
-> moves.
+> for mowing**. Some parts sheets say the opposite. It is also a
+> diverter rather than a hard stop: owners report that with a deck or a
+> rear implement mounted, things still creep up and down slowly, and
+> that around 5 or a quarter turn past 5 on the dial is where the deck
+> stops drifting. Turn the knob and watch what actually moves.
 
 If you would rather not spend the $283, the free version of this fix is
 to run the mower deck at its highest position whenever the loader is
-on. That is the same advice Little Buck gives, and it costs nothing.
+on. That is the same advice we give, and it costs nothing.
 
 **4. Updated cutoff valve. Optional, and no part number yet.**
 
-Separate from the above. Little Bull's wording: some customers have
-reported improved implement performance by replacing the factory cutoff
-valve, and while it is not required it may make loader operation more
-efficient. They have not published a part number. Run the stock valve.
-If it feels sluggish, call your Deere dealer with the serial number,
-mention Little Bull's guidance, and have them cross-reference the
-updated valve for the X758 hydraulic circuit.
+Separate from the above. Some of our customers have reported improved
+implement performance by replacing the factory cutoff valve. It is not
+required, but it may make loader operation more efficient. We have not
+published a part number. Run the stock valve. If it feels sluggish,
+call your Deere dealer with the serial number, mention this guidance,
+and have them cross-reference the updated valve for the X758 hydraulic
+circuit.
 
 ---
 
@@ -330,8 +327,8 @@ The Bull is heavier and mounts to the frame rather than to the weight
 bracket, so there is more to it. Use the rolling jack that came with
 the loader. Do not try to muscle 400 lbs into alignment.
 
-This is the order Little Buck gives in their current video. Two things
-in it surprise people: **the hoses go on early**, before the loader is
+This is the order we use in our current video. Two things in it
+surprise people: **the hoses go on early**, before the loader is
 mounted, because you need the tractor's hydraulics to work the jack;
 and the spring-loaded pins come out **after** the jack is off, not
 before.
@@ -356,8 +353,8 @@ before.
 9. **Restart the tractor** and run the loader through its range to
    confirm everything works.
 
-> The FAQ says to snug the turnbuckles and add **one** full hand turn,
-> while the current video says **two**. Two is the newer instruction.
+> Our FAQ says to snug the turnbuckles and add **one** full hand turn,
+> while our current video says **two**. Two is the newer instruction.
 > Either way they loosen with vibration, so see
 > [Troubleshooting](#troubleshooting) for the jam nut fix that stops
 > them backing off for good.
@@ -373,7 +370,7 @@ Two short clips cover the early steps in more detail:
 
 [![Attaching your Little Bull Loader](images/video-bull-attach-updated.jpg)](https://www.youtube.com/watch?v=kixGRO86FYc)
 
-Running an Antler Grappler too? There is a combined video:
+Running an Antler Grappler too? We have a combined video:
 [Attaching Your Little Bull Loader and Antler Grappler](https://www.youtube.com/watch?v=pmSc1ZKGFqg).
 
 **Note:** the Little Bull does not work with a cab, hard or soft. If
@@ -402,10 +399,10 @@ owned both.
 | **Top** | black | green |
 | **Bottom** | yellow | silver |
 
-Getting it wrong is not a disaster. Per the manufacturer, hooking them
-up backwards on the first try will not damage the tractor or the
-loader. The lift or tilt simply will not work correctly, which tells
-you to swap a pair. Full article:
+Getting it wrong is not a disaster. Hooking them up backwards on the
+first try will not damage the tractor or the loader. The lift or tilt
+simply will not work correctly, which tells you to swap a pair. Full
+article:
 [Hydraulic Hose Connections 101](https://www.littlebuckloader.com/blog/2026/6/4/hydraulic-hose-connections-101).
 
 ---
@@ -453,11 +450,10 @@ support bars and one steel arm locking tie. Made in Sycamore.
 
 *Two caster bars and the locking tie. That is the whole kit.*
 
-> **This is a Little Buck accessory.** The product page lists it as
-> fitting the Little Buck only, on the 4X5 and X-Series tractors, and
-> the Little Bull is not mentioned anywhere on that page. If you run a
-> Bull you do not need it: the Bull comes with its own jack on rollers,
-> covered in [the next section](#the-little-bulls-jack).
+> **This one is for the Buck.** We list it as fitting the Little Buck
+> only, on the 4X5 and X-Series tractors. If you run a Bull you do not
+> need it: the Bull comes with its own jack on rollers, covered in
+> [the next section](#the-little-bulls-jack).
 
 There is a second limitation worth knowing. The kit is for taking the
 loader off and putting it back on **after** the normal first-time
@@ -499,8 +495,8 @@ ships with its own detachable screw jack on rollers, and it does the
 same job: it carries the loader's weight while you mount or dismount,
 and it is what the loader stands and rolls on once it is off the
 tractor. That is the whole reason the caster kit is a Buck-only
-accessory. The Buck has no jack, so Little Buck sells it one. The Bull
-already has the capability in the box.
+accessory. The Buck has no jack, so we sell it one. The Bull already
+has the capability in the box.
 
 The jack is a screw jack. You wind it up and down by hand to raise and
 lower the front of the loader, and it rides on rollers so the loader
@@ -558,11 +554,11 @@ A few things that make this easier:
 - **Chock it on any slope.** A wheeled 400 lb loader that starts moving
   on its own is not something you want to catch by hand.
 
-> Little Buck has not published a standalone photo of the jack or a
-> video devoted to it. It is shown in use in both loader videos below.
-> In the attach video it appears around the steps where the loader is
-> lowered onto it and then unscrewed; in the detach video it is what
-> the loader is left standing on.
+> We have not shot a video devoted to the jack, or a standalone photo
+> of it. It is shown in use in both loader videos below. In the attach
+> video it appears around the steps where the loader is lowered onto it
+> and then unscrewed; in the detach video it is what the loader is left
+> standing on.
 
 | Attaching, jack in use | Detaching, jack takes the weight |
 |---|---|
@@ -574,8 +570,8 @@ A few things that make this easier:
 
 **It is a material mover, not an excavator.** Dirt, mulch, gravel,
 snow, all fine. Prying stumps and digging into hard ground is not what
-these are built for. You can fit a toothbar (the Piranha is the one
-they recommend) as long as you are not excavating with it.
+these are built for. You can fit a toothbar (the Piranha is the one we
+recommend) as long as you are not excavating with it.
 
 Roughly 10 feet of tractor plus loader on the Little Buck, so give
 yourself room in gates and doorways.
@@ -605,7 +601,7 @@ reach the dipstick and radiator normally.
 ([blog post](https://www.littlebuckloader.com/blog/2026/5/20/how-to-open-the-hood-on-a-john-deere-tractor-with-a-little-buck-or-bull-loader-attached))
 
 While attaching, a strip of pipe insulation or a folded towel on the
-hood edge saves the green paint. There is a
+hood edge saves the green paint. We wrote a
 [whole post on cheap hood protection](https://www.littlebuckloader.com/blog/2025/11/19/a-simple-inexpensive-way-to-protect-your-john-deere-garden-tractor-hood-when-attaching-a-loader).
 
 ---
@@ -627,11 +623,12 @@ mandatory.
 | **QuikPush snow pusher, 50"** | **Quick-attach plate, head on** |
 | ![QuikPush snow pusher](images/quikpush-snow-pusher.jpg) | ![QuikSystem front view](images/quiksystem-front-view.jpg) |
 
-**The Antler Grappler** is the mechanical grapple, and it is a neat
-piece of design: it needs no extra hydraulic line at all. It runs off
-the bucket tilt linkage. Tilt forward and the grapple opens, tilt back
-and it closes. It fits every Little Buck and Little Bull. The bolt-on
-plates sit 24" apart center to center, and the spacing is adjustable.
+**The Antler Grappler** is our mechanical grapple, and we are proud of
+how simple it turned out: it needs no extra hydraulic line at all. It
+runs off the bucket tilt linkage. Tilt forward and the grapple opens,
+tilt back and it closes. It fits every Little Buck and Little Bull. The
+bolt-on plates sit 24" apart center to center, and the spacing is
+adjustable.
 
 [![Attaching Your Little Bull Loader and Antler Grappler](images/video-bull-grappler.jpg)](https://www.youtube.com/watch?v=pmSc1ZKGFqg)
 
@@ -649,8 +646,8 @@ for the new machine. The exceptions and dead ends:
 | 318-style | X series, 4x5, or 400 / 420 / 430 | New mounting base and hoses |
 | 400 / 420 / 430 | X700 series | New mounting base and hoses |
 
-Conversion kits are sold on the site. Call them before you buy, since
-the fit depends on the exact year.
+We sell conversion kits on our site. Call us before you buy, since the
+fit depends on the exact year.
 
 ---
 
@@ -687,7 +684,7 @@ upgrade to make.
 It should not wear there. The Buck uses spring-loaded pins in the
 weight bracket channel, the Bull uses mid-mount brackets that prevent
 play. If there is slop, check the pins and the turnbuckles before
-assuming wear.
+assuming wear. If it still feels loose, call us.
 
 ---
 
@@ -708,7 +705,7 @@ Hydraulic fluid: JDM J20C spec, Type F ATF compatible.
 
 ## Video library
 
-All from the [Little Buck Loader channel](https://www.youtube.com/@LittleBuckLoader)
+All from [our YouTube channel](https://www.youtube.com/@LittleBuckLoader)
 unless noted.
 
 | Video | Topic |
@@ -734,7 +731,7 @@ and bucket extender installs, and the QuikSystem conversion kit.
 ## Reference links
 
 - [Setup / installation page](https://www.littlebuckloader.com/setup-your-little-buck-loader)
-- [FAQ](https://www.littlebuckloader.com/frequently-asked-questions-faq) - the deepest single source on the site
+- [FAQ](https://www.littlebuckloader.com/frequently-asked-questions-faq) - our deepest single page
 - [Little Buck operator's manual (PDF)](https://drive.google.com/file/d/1juCGjJ1KSfgrv6OV5994FIeXOiZZhPk8/view)
 - [Install the free-wheeling lever and transaxle pressure relief valve](https://www.littlebuckloader.com/blog/2021/6/29/install-free-wheeling-control-lever-and-transaxle-hydrostatic-pressure-relief-valve) - part numbers and procedure
 - Deere parts: [MIA885144 pressure relief valve](https://shop.deere.com/us/product/MIA885144:-Pressure-Relief-Valve/p/MIA885144), [M146148 neutral rod](https://shop.deere.com/us/product/M146148:-Neutral-Rod/p/M146148), [AM134625 flow control valve](https://shop.deere.com/us/product/AM134625:-Flow-Control-Valve/p/AM134625)
@@ -750,32 +747,20 @@ and bucket extender installs, and the QuikSystem conversion kit.
 - [Greasing guide](https://www.littlebuckloader.com/blog/2026/5/20/why-doesnt-my-new-loader-come-pre-greased-and-how-to-grease-it-right)
 
 There is also an active owners group on Facebook with hundreds of
-customer videos and photos, which is worth joining for the odd
+customer videos and photos, and it is worth joining for the odd
 tractor-specific question.
 
 ---
 
 ## About the images
 
-Every picture in this file is a local copy in `images/`, so the guide
-reads offline. They come from Little Buck Loader's own product pages
-and video thumbnails, and they belong to Little Buck Loader, LLC.
-
-To refetch and rebuild them:
-
-```sh
-python3 s1_download_images.py     # add --force to refetch
-python3 s2_clean_images.py
-```
-
-All of them are standardized to 640x480 JPEG at 72 DPI with a white
-margin, which is why they line up evenly on the page. Markdown cannot
-resize an image, so that canvas is the size you actually see. Change
-it in the constants at the top of `s2_clean_images.py`.
+Every picture in this guide comes from our own product pages and video
+thumbnails. They are all local copies, so the guide reads offline, and
+they are standardized to the same size so they line up evenly on the
+page.
 
 ---
 
-*Compiled September 2026 from Little Buck Loader's published
-instructions, FAQ, blog and videos. Prices and specs were current at
-that date. Nothing here replaces the operator's manual or a phone call
-to the factory.*
+*Written September 2026. Prices and specs were current at that date.
+Nothing here replaces your operator's manual or a phone call to the
+factory. We would rather answer the phone than have you guess.*
